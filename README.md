@@ -75,9 +75,9 @@ Sou estudante de **Engenharia de Software** na Unialfa e desenvolvedor **Back-En
 
 ## 📫 Contato
 
-- 📧 Email: seuemail@exemplo.com  
-- 🌐 LinkedIn: [linkedin.com/in/seunome](https://linkedin.com/in/seunome)  
-- 📷 Instagram/Portfólio: [@bry.photos](https://instagram.com/bry.photos)  
+- 📧 Email: bryanncauan@gmail.com  
+- 🌐 LinkedIn: [linkedin.com/in/bryann-barbosa](https://linkedin.com/in/bryann-barbosa-5951b1303)  
+- 📷 Instagram/Portfólio: [@bry_photos__](https://instagram.com/bry_photos__)  
 
 ---
 
