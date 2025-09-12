@@ -68,8 +68,8 @@ Sou estudante de **Engenharia de Software** na Unialfa e desenvolvedor **Back-En
 
 ## 📊 GitHub Stats
 
-![Bryann's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seunome&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seunome&layout=compact&theme=radical)
+![Estatísticas do GitHub do Bryannps](https://github-readme-stats.vercel.app/api?username=Bryannps&show_icons=true&theme=radical)
+![Linguagens mais usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Bryannps&layout=compact&langs_count=8&theme=radical)
 
 ---
 
