@@ -1,6 +1,6 @@
 # Olá! Eu sou o Bryann 👋
 
-Sou estudante de **Engenharia de Software** na Unialfa e desenvolvedor **Full-Stack** apaixonado por criar soluções digitais escaláveis, arquitetar APIs robustas e otimizar sistemas em nuvem. Tenho forte atuação no ecossistema Java e Node.js, com foco em performance, cultura DevOps e práticas de cibersegurança.
+Sou estudante de **Engenharia de Software** na Unialfa e desenvolvedor **Full-Stack** apaixonado por criar soluções digitais escaláveis, arquitetar APIs robustas e otimizar sistemas em nuvem. Tenho forte atuação no ecossistema Java, Node.js e Ruby on Rails, com foco em performance, cultura DevOps e práticas de cibersegurança.
 
 ### 🔌 Expertise em Integrações de Sistemas
 Possuo ampla experiência em conectar sistemas complexos, unificar fluxos de dados corporativos e desenvolver soluções de ponta a ponta. Minhas principais atuações incluem:
@@ -15,12 +15,15 @@ Possuo ampla experiência em conectar sistemas complexos, unificar fluxos de dad
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript ES6+](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
 ### Backend
 ![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-0055B8?style=for-the-badge)
 ![Prisma](https://img.shields.io/badge/Prisma-0C344B?style=for-the-badge)
 
@@ -29,6 +32,20 @@ Possuo ampla experiência em conectar sistemas complexos, unificar fluxos de dad
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flexbox](https://img.shields.io/badge/Flexbox-000000?style=for-the-badge)
+![CSS Grid](https://img.shields.io/badge/CSS_Grid-000000?style=for-the-badge)
+
+### Arquitetura e Design
+![SOLID](https://img.shields.io/badge/SOLID-000000?style=for-the-badge)
+![DRY](https://img.shields.io/badge/DRY-000000?style=for-the-badge)
+
+### Gems e Bibliotecas Ruby
+![Devise](https://img.shields.io/badge/Devise-CC342D?style=for-the-badge)
+![Sidekiq](https://img.shields.io/badge/Sidekiq-CC342D?style=for-the-badge)
+![Ransack](https://img.shields.io/badge/Ransack-CC342D?style=for-the-badge)
+![Kaminari](https://img.shields.io/badge/Kaminari-CC342D?style=for-the-badge)
 
 ### Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -39,6 +56,8 @@ Possuo ampla experiência em conectar sistemas complexos, unificar fluxos de dad
 ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-8BC34A?style=for-the-badge)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![RSpec](https://img.shields.io/badge/RSpec-CC342D?style=for-the-badge)
+![FactoryBot](https://img.shields.io/badge/FactoryBot-CC342D?style=for-the-badge)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white)
 
@@ -61,7 +80,7 @@ Possuo ampla experiência em conectar sistemas complexos, unificar fluxos de dad
 
 ## 💻 Projetos
 
-- **[BRY Photos](https://github.com/seunome/bry-photos)** – Site institucional de fotografia com login de usuários, venda de fotos e marca d’água.  
+- **[BRY Photos](https://github.com/seunome/bry-photos)** – Site institucional de fotografia com login de usuários, venda de fotos e marca d'água.  
 - **[Dashboard de KPIs](https://github.com/seunome/dashboard-kpis)** – Painel de indicadores financeiros para financiadores.  
 - **[WhatsApp Bot](https://github.com/seunome/whatsapp-bot)** – Bot integrado ao Google Sheets, desenvolvido com NestJS e WhatsApp Web.js.  
 - **[Projetos BRY](https://github.com/seunome)** – Diversos projetos Full-Stack com integração de APIs e bancos de dados.
@@ -73,13 +92,6 @@ Possuo ampla experiência em conectar sistemas complexos, unificar fluxos de dad
 - 💼 **Anbetec Tecnologia** — Desenvolvedor Full-Stack (Java, Spring Boot, Node.js, React, PostgreSQL, AWS)  
 - 📸 **BRY Photos** — Fotógrafo e criador do site institucional  
 - ✈️ **Meus Voos e Viagens** — Consultor e responsável por franquia em Goiânia  
-
----
-
-## 📊 GitHub Stats
-
-![Estatísticas do GitHub do Bryannps](https://github-readme-stats.vercel.app/api?username=Bryannps&show_icons=true&theme=radical)
-![Linguagens mais usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Bryannps&layout=compact&langs_count=8&theme=radical)
 
 ---
 
