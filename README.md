@@ -68,6 +68,8 @@ Possuo ampla experiência em conectar sistemas complexos, unificar fluxos de dad
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-003399?style=for-the-badge)
 ![Mercado Pago](https://img.shields.io/badge/Mercado_Pago-003399?style=for-the-badge)
 ![WhatsApp Web.js](https://img.shields.io/badge/WhatsApp_Web.js-25D366?style=for-the-badge)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
 
 ### Cloud, DevOps e Segurança
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -78,20 +80,69 @@ Possuo ampla experiência em conectar sistemas complexos, unificar fluxos de dad
 
 ---
 
-## 💻 Projetos
+## 💻 Projetos em Destaque
 
-- **[BRY Photos](https://github.com/seunome/bry-photos)** – Site institucional de fotografia com login de usuários, venda de fotos e marca d'água.  
-- **[Dashboard de KPIs](https://github.com/seunome/dashboard-kpis)** – Painel de indicadores financeiros para financiadores.  
-- **[WhatsApp Bot](https://github.com/seunome/whatsapp-bot)** – Bot integrado ao Google Sheets, desenvolvido com NestJS e WhatsApp Web.js.  
-- **[Projetos BRY](https://github.com/seunome)** – Diversos projetos Full-Stack com integração de APIs e bancos de dados.
+### 🏢 Goiás Real Estate - CRM Imobiliário Completo
+[![CI](https://github.com/bryanncauan/goias_real_state/actions/workflows/ci.yml/badge.svg)](https://github.com/bryanncauan/goias_real_state/actions/workflows/ci.yml)
+[![Coverage](https://img.shields.io/badge/coverage-98.34%25-brightgreen.svg)](#qualidade-e-testes)
+[![Ruby](https://img.shields.io/badge/Ruby-3.2.0-CC342D.svg)](https://www.ruby-lang.org/)
+[![Rails](https://img.shields.io/badge/Rails-7.1-CC0000.svg)](https://rubyonrails.org/)
+
+Sistema completo para gestão imobiliária com autenticação de perfis (administrador, corretor e cliente), catálogo de imóveis com upload múltiplo de fotos, filtros avançados com Ransack, favoritos interativos com Stimulus e dashboards estatísticos.
+
+**Stack:** Ruby on Rails 7.1, PostgreSQL, Redis, Sidekiq, Hotwire, RSpec
+
+**Destaques:**
+- 98.34% de cobertura de testes
+- CI/CD com GitHub Actions
+- Arquitetura com Service Objects
+- Processamento assíncrono com Sidekiq e Redis
+- Interface responsiva com HTML5 semântico, CSS Grid e Flexbox
+
+🔗 [Ver repositório](https://github.com/bryanncauan/goias_real_state)
+
+---
+
+### 🤖 Mingau Bot - Automação de NFS-e via WhatsApp com IA
+Bot autônomo que utiliza IA (Gemini) e RPA (Puppeteer) para extrair dados de conversas no WhatsApp, emitir Notas Fiscais de Serviço Eletrônicas automaticamente no portal do Governo Federal e enviar o PDF diretamente no chat.
+
+**Stack:** Node.js, TypeScript, whatsapp-web.js, Puppeteer, Google Gemini API, SQLite, PM2
+
+**Destaques:**
+- Bypass automático de Captchas (2Captcha)
+- Sistema anti-duplicidade com SQLite (idempotência)
+- Visão computacional para diagnóstico de erros
+- Gerenciamento de sessões com timeout anti-memory leak
+- Processamento de Linguagem Natural para extração de dados
+- Navegação headless com plugins stealth anti-detecção
+
+---
+
+### 🏦 Produtos Anbetec Tecnologia
+Participação no desenvolvimento de produtos financeiros enterprise da [Anbetec](https://www.anbetec.com.br):
+
+- **[Essa Eu Pago](https://www.essaeupago.com.br/)** – Plataforma de pagamentos e gestão financeira
+- **Meus Bancos** – Sistema de gestão e conciliação bancária
+- **Módulos de Integração** – APIs para instituições financeiras (Bradesco, Banco do Brasil, Itaú, Santander)
+
+**Contribuições:**
+- Desenvolvimento full-stack de soluções financeiras
+- Integração com APIs bancárias de grande porte
+- Homologação de sistemas e garantia de qualidade
+- Otimização de performance e escalabilidade
+- Implementação de novas features e módulos
+
+**Stack:** Java, Spring Boot, Node.js, React, PostgreSQL, AWS
 
 ---
 
 ## 🛠 Experiência Profissional
 
-- 💼 **Anbetec Tecnologia** — Desenvolvedor Full-Stack (Java, Spring Boot, Node.js, React, PostgreSQL, AWS)  
-- 📸 **BRY Photos** — Fotógrafo e criador do site institucional  
-- ✈️ **Meus Voos e Viagens** — Consultor e responsável por franquia em Goiânia  
+- 💼 **Anbetec Tecnologia** — Desenvolvedor Full-Stack
+  - Desenvolvimento de soluções financeiras enterprise
+  - Integração com APIs bancárias (Bradesco, BB, Itaú, Santander)
+  - Comunicação com sistemas ERP (TOTVS Protheus, WinThor, KMM, Omie)
+  - Stack: Java, Spring Boot, Node.js, React, PostgreSQL, AWS
 
 ---
 
